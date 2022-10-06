@@ -183,7 +183,6 @@ https://repubblica.it
 https://arxiv.org
 https://alibaba.com
 https://mega.nz
-https://usnews.com
 https://enable-javascript.com
 https://ziddu.com
 https://picasa.google.com
@@ -498,3 +497,5 @@ https://softpedia.com
 https://unicef.org
 https://debian.org
 https://fastcompany.com
+https://rjfedor.com
+https://arduino.rjfedor.com

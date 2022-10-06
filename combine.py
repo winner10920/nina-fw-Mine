@@ -36,9 +36,9 @@ for i in range(0, len(appData)):
 	outputData[0x30000 + i] = appData[i]
 
 
-outputFilename = "NINA_W102.bin"
-if (len(sys.argv) > 1):
-	outputFilename = sys.argv[1]
+outputFilename = "binaries/NINA_W102.bin"
+#if (len(sys.argv) > 1):
+	#outputFilename = sys.argv[1]
 
 # write out
 with open(outputFilename,"w+b") as f:
